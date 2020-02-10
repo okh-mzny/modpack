@@ -11,9 +11,9 @@
 					}
 				},
 				"material": "minecraft:end_stone",
-				"cluster-size": 9
+				"cluster-size": 4
 			},
-			"cluster-count": 7,
+			"cluster-count": 6,
 			"min-height": 10,
 			"max-height": 65,
 			"retrogen": "true",
